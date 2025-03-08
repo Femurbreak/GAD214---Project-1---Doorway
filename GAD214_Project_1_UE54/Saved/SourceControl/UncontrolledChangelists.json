@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/GAD214---Project-1---Doorway/GAD214_Project_1_UE54/Content/Meshes/GrassMesh/GrassStylized.uasset",
+				"D:/GitHub/GAD214---Project-1---Doorway/GAD214_Project_1_UE54/Content/Materials/GrassMesh/MI_StylizedGrassMesh.uasset",
+				"D:/GitHub/GAD214---Project-1---Doorway/GAD214_Project_1_UE54/Content/Materials/GrassMesh/M_StylizedGrassMesh.uasset",
+				"D:/GitHub/GAD214---Project-1---Doorway/GAD214_Project_1_UE54/Content/Meshes/GrassMesh/GrassStylizedMedium.uasset",
+				"D:/GitHub/GAD214---Project-1---Doorway/GAD214_Project_1_UE54/Content/Levels/L_Doorway.umap",
+				"D:/GitHub/GAD214---Project-1---Doorway/GAD214_Project_1_UE54/Content/Meshes/GrassMesh/GrassStylizedSmall.uasset",
 				"C:/Users/1028399/Documents/GitHub/GAD214---Project-1---Doorway/GAD214_Project_1_UE54/Content/L_Doorway.umap",
 				"C:/Users/1028399/Documents/GitHub/GAD214---Project-1---Doorway/GAD214_Project_1_UE54/Content/Levels/L_Doorway.umap",
 				"C:/Users/1028399/Documents/GitHub/GAD214---Project-1---Doorway/GAD214_Project_1_UE54/Content/Levels/_GENERATED/1028399/CubeGridToolOutput_098B4B1D.uasset",
